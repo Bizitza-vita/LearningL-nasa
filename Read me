@@ -1,0 +1,16 @@
+This guide explains how to integrate and use the .clouds CSS class in Elementor Pro to create an animated cloud effect across the width of your website.
+
+Class: .clouds
+This CSS class animates an element (clouds) across the screen, from left to right. The clouds will have a slight opacity and will continuously animate, creating a smooth visual effect
+
+How to Implement:
+Add the .clouds CSS Class:
+
+Simply assign the .clouds class to any Elementor element where you want the animated clouds.
+Custom CSS:
+
+Paste the CSS code into Custom CSS in Elementor Pro.
+Notes:
+Speed: Adjust using --i in the element’s style attribute.
+Positioning: Ensure the element has position: relative; if needed.
+Opacity: Change in the .clouds class for visibility adjustments.
